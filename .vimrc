@@ -532,3 +532,4 @@ set fileencodings=ucs-bom,utf-8,chinese
 set langmenu=zh_CN.utf-8
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
+set backspace=2
