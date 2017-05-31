@@ -25,6 +25,7 @@ RUN apt-get update \
                 cmake \
                 ctags \
                 lrzsz \
+                make \
                 mlocate \
                 xz-utils \
         && rm -r /var/lib/apt/lists/* \
